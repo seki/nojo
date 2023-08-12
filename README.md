@@ -1,0 +1,2 @@
+# nojo
+thumbnail sample
